@@ -1,5 +1,5 @@
 # CSGSI
-A simple C# library to interface with Counter-Strike: Global Offensive *Game State Integration*
+A simple C# library to interface with Counter-Strike: 2 *Game State Integration* The original repo seems to be abandoned.
 
 ## Table of Contents  
 [What is Game State Integration](#what-is-game-state-integration)  
